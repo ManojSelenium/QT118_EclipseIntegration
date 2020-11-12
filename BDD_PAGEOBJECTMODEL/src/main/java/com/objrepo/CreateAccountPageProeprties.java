@@ -11,7 +11,7 @@ public interface CreateAccountPageProeprties {
 	By ADDRESS_LOCATOR=By.id("address1");
 	By CITY_LOCATOR=By.id("city");
 	By STATE_LOCATOR=By.id("id_state");
-	
+	void sout();
 			
 
 }
